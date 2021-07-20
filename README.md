@@ -38,7 +38,7 @@ Por se tratar de  projeto  Front-end não foi desenvolvida uma api, no entanto f
 
 * Clonar esse repositório em sua máquina.
 * Executar o comando **yarn** (*para instalar as dependências do projeto*)
-* Executar o comando abaixo para inicializar a API fake: 
+* Executar o seguinte comando para inicializar a API fake: 
 **json-server ./src/services/server.json --host *192.168.1.7* --port 3001**
 (*troque o IP que está no comando pelo seu antes de executá-lo*)
 * Execute o comando **yarn start** para rodar a aplicação no seu coputador.
